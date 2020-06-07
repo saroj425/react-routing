@@ -1,0 +1,9 @@
+.contactstyle {
+  width: 100%;
+  height: calc(100vh - 100px);
+  background: #7bed9f;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
